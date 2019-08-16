@@ -1,0 +1,35 @@
+
+
+.homebg{
+	background-image: url(MIHI.png);	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	height: 500px;
+	
+}
+
+.btn{
+	background: #197719;
+	color: white;
+}
+.navbar{
+	background: #197719;
+
+}
+.nav-link{
+	color: #fcfdff;
+}
+.navbar-nav{
+	color: #fcfdff;
+}
+.navbar-brand{
+	color: #fcfdff;
+}
+
+.btn-primary{
+	background: #197719 !important;
+	border-color: #197719 !important;
+	margin-top: 20%;
+}
